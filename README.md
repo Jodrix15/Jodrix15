@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+[Ver Analytics](../../graphs/traffic)
+
+
 <!--
 **Jodrix15/Jodrix15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
