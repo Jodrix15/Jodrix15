@@ -4,6 +4,8 @@
 
 # Vídeos con enlace a youtube y a código
 
+# Skills
+
 
 # GitHub Analytics
 <p align="center">
