@@ -1,6 +1,11 @@
-## Hi there 👋
+## Hola, soy Jordi Hornos 👋
+
+# Banner
+
+# Vídeos con enlace a youtube y a código
 
 
+# GitHub Analytics
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Jodrix15&show_icons=true&theme=algolia" alt="GitHub Stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jodrix15&layout=compact&theme=algolia" alt="Top Languages">
