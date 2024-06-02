@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[Ver Analytics](../../graphs/traffic)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jodrix15&show_icons=true&theme=algolia)
 
 
 <!--
