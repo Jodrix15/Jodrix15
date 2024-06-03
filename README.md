@@ -1,10 +1,14 @@
 ## Hola, soy Jordi Hornos 👋
 
-# Banner
-
-# Vídeos con enlace a youtube y a código
 
 ## Skills
+
+Programming Languages <br>
+Database <br>
+Backend Development <br>
+Mobile App Development <br>
+Frontend Development<br>
+Other Software <br>
 
 <h3 align="center">A passionate frontend developer from India</h3>
 
