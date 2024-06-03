@@ -1,8 +1,6 @@
 
+<h3 align="center">Hola, soy Jordi Hornos 👋</h3>
 
-<div style="text-align: center;">
-  # Hola, soy Jordi Hornos 👋
-</div>
 
 
 
