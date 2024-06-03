@@ -1,4 +1,4 @@
-## Hola, soy Jordi Hornos 👋
+<center> ## Hola, soy Jordi Hornos 👋 </center>
 
 
 ## Skills
