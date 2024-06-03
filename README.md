@@ -6,12 +6,12 @@
 
 ## ✨Skills
 
-💻Programming Languages <br>
-☁️Database <br>
-🌐Backend Development <br>
-📱Mobile App Development <br>
-💮Frontend Development<br>
-⚙️Other Software <br>
+💻 Programming Languages <br>
+☁️ Database <br>
+🌐 Backend Development <br>
+📱  Mobile App Development <br>
+💮 Frontend Development<br>
+⚙️ Other Software <br>
 
 
 <h3 align="left">Connect with me:</h3>
