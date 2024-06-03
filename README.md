@@ -2,7 +2,7 @@
 <h1 align="center">Hola, soy Jordi Hornos 👋</h1>
 
 
-
+## :bowtie:Sobre mí
 
 ## ✨Skills
 
