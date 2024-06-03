@@ -2,14 +2,14 @@
 <h1 align="center">Hola, soy Jordi Hornos 👋</h1>
 
 
-## :bowtie:Sobre mí
+## 📜Sobre mí
 
 ## ✨Skills
 
 ### 💻 Programming Languages <br>
 ### ☁️ Database <br>
 ### 🌐 Backend Development <br>
-### 📱  Mobile App Development <br>
+### 📲 Mobile App Development <br>
 ### 💮 Frontend Development<br>
 ### ⚙️ Other Software <br>
 
