@@ -1,5 +1,9 @@
 
-<h1 style="text-align: center;"> Hola, soy Jordi Hornos 👋</h1>
+
+<div style="text-align: center;">
+  # Hola, soy Jordi Hornos 👋
+</div>
+
 
 
 ## Skills
