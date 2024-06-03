@@ -6,7 +6,7 @@
 
 ## ✨Skills
 
-💻 Programming Languages <br>
+### 💻 Programming Languages <br>
 ☁️ Database <br>
 🌐 Backend Development <br>
 📱  Mobile App Development <br>
