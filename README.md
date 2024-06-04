@@ -5,7 +5,7 @@
 ## 📜Sobre mí
 
 <div align="center">
-  <img src="./Downloads/bannerGit.png">
+  <img src="./bannerGit.png">
 </div>
 
 ## ✨Skills
