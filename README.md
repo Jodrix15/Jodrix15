@@ -2,11 +2,11 @@
 <h1 align="center">Hola, soy Jordi Hornos 👋</h1>
 
 
-## 📜Sobre mí
-
 <div align="center">
   <img src="./bannerGit.png">
 </div>
+
+## 📜Sobre mí
 
 ## ✨Skills
 <div align="center">
