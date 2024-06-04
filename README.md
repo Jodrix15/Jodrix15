@@ -3,7 +3,7 @@
 
 
 <div align="center">
-  <img src="./bannerGit2.png">
+  <img src="./4.png">
 </div>
 
 ## 📜Sobre mí
