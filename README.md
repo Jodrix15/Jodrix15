@@ -7,7 +7,7 @@
 ## ✨Skills
 
 ### 💻 Programming Languages <br>
-![Static Badge]([https://img.shields.io/badge/:badgeContent](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white))
+[https://img.shields.io/badge/:badgeContent](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
 
 ### ☁️ Database <br>
 ### 🌐 Backend Development <br>
