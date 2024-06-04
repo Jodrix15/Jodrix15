@@ -6,7 +6,7 @@
 
 ## ✨Skills
 <div align="center">
-<h1 align="center">💻 Programming Languages</h1> <br>
+<h3 align="center">💻 Programming Languages</h3> <br>
   <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/C%23-512BD4.svg?style=for-the-badge&logo=C%23&logoColor=white" alt="C#">
 </div>
