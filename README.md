@@ -4,6 +4,10 @@
 
 ## 📜Sobre mí
 
+<div align="center">
+  <img src="./Downloads/bannerGit.png">
+</div>
+
 ## ✨Skills
 <div align="center">
 <h3 align="center">💻 Programming Languages</h3> <br>
