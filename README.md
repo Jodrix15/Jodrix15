@@ -8,8 +8,14 @@
 
 ### 💻 Programming Languages <br>
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4.svg?style=for-the-badge&logo=C%23&logoColor=white)
+
 
 ### ☁️ Database <br>
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545.svg?style=for-the-badge&logo=MariaDB&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white)
+
 ### 🌐 Backend Development <br>
 ### 📲 Mobile App Development <br>
 ### 💮 Frontend Development<br>
