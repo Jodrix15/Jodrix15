@@ -5,7 +5,7 @@
 ## 📜Sobre mí
 
 ## ✨Skills
-
+<center>
 ### 💻 Programming Languages <br>
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4.svg?style=for-the-badge&logo=C%23&logoColor=white)
@@ -25,7 +25,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
 
 ### ⚙️ Other Software <br>
-![Unity](https://img.shields.io/badge/Unity-FFFFFF.svg?style=for-the-badge&logo=Unity&logoColor=black)
+![Unity](https://img.shields.io/badge/Unity-FFFFFF.svg?style=for-the-badge&logo=Unity&logoColor=black)</center>
 
 
 ## 💹GitHub Analytics
