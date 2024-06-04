@@ -6,34 +6,33 @@
 
 ## ✨Skills
 <div align="center">
-### 💻 Programming Languages <br>
-
+<h1 align="center">💻 Programming Languages</h1> <br>
   <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/C%23-512BD4.svg?style=for-the-badge&logo=C%23&logoColor=white" alt="C#">
 </div>
 
-### ☁️ Database <br>
 <div align="center">
+<h1 align="center">☁️ Database</h1> <br>
   <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white" alt="MySQL">
   <img src="https://img.shields.io/badge/MariaDB-003545.svg?style=for-the-badge&logo=MariaDB&logoColor=white" alt="MariaDB">
   <img src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white" alt="MongoDB">
 </div>
 
-### 🌐 Backend Development <br>
 <div align="center">
+<h1 align="center">🌐 Backend Development</h1> <br>
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=for-the-badge&logo=Spring-Boot&logoColor=white" alt="Spring Boot">
 </div>
 
-### 📲 Mobile App Development <br>
+<h1 align="center">📲 Mobile App Development</h1> <br>
 
-### 💮 Frontend Development<br>
 <div align="center">
+<h1 align="center">💮 Frontend Development</h1><br>
   <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" alt="HTML5">
 </div>
 
-### ⚙️ Other Software <br>
 <div align="center">
+<h1 align="center">⚙️ Other Software</h1> <br>
   <img src="https://img.shields.io/badge/Unity-FFFFFF.svg?style=for-the-badge&logo=Unity&logoColor=black" alt="Unity">
 </div>
 
