@@ -7,6 +7,10 @@
 </div>
 
 ## 📜Sobre mí
+- Objetivo actual: Sacarme el título del FP DAM (desarrollo de aplicaciones multiplataforma)
+- Próximo Objetivo: Inglés, entrar en ingeniería informática
+- Último proyecto: CRM - Customer Relationship Managment
+- Próximo proyecto: Simulador de un juego rpg
 
 ## ✨Skills
 <div align="center">
