@@ -10,7 +10,7 @@
 - Objetivo actual: OBtener el título del FP DAM (desarrollo de aplicaciones multiplataforma)
 - Próximo Objetivo: Inglés (B2), Universidad - Ingeniería informática
 - Último proyecto: CRM - Customer Relationship Managment
-- Próximo proyecto: Simulador de un juego rpg
+- Próximo proyecto: RoomTomic
 
 ## ✨Skills
 <div align="center">
