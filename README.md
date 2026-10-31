@@ -67,6 +67,5 @@
 ## 📊 GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jodrix15&show_icons=true&theme=algolia" alt="Estadísticas de GitHub">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jodrix15&layout=compact&theme=algolia" alt="Lenguajes más usados">
+  <img src="https://streak-stats.demolab.com/?user=Jodrix15&theme=algolia&locale=es&hide_border=true" alt="Racha de contribuciones">
 </p>
