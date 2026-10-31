@@ -8,15 +8,17 @@
   <img src="./4.png" alt="Banner">
 </div>
 
-## 📜 Sobre mí <p align="center">
-  <a href="https://www.linkedin.com/in/jordi-hornos/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-</p>
+## 📜 Sobre mí 
 
 - 💼 Trabajo como **desarrollador** en el sector de seguros desde hace año y medio.
 - 🎓 Estudio **Ingeniería Informática**.
 - 🎯 Me estoy especializando en **backend con Java y Spring Boot**, con Angular en el frontend.
 - 🌱 Ahora mismo aprendo diseño de sistemas, testing con Testcontainers, Docker y CI/CD.
 - 🇬🇧 Preparando el **First Certificate (B2)** de inglés.
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/jordi-hornos/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+</p>
 
 ## 🛠️ Stack
 
