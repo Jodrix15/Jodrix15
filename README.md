@@ -1,68 +1,72 @@
-
 <h1 align="center">Hola, soy Jordi Hornos 👋</h1>
 
-
-<div align="center">
-  <img src="./4.png">
-</div>
-
-## 📜Sobre mí
-- Objetivo actual: OBtener el título del FP DAM (desarrollo de aplicaciones multiplataforma)
-- Próximo Objetivo: Inglés (B2), Universidad - Ingeniería informática
-- Último proyecto: CRM - Customer Relationship Managment
-- Próximo proyecto: RoomTomic
-
-## ✨Skills
-<div align="center">
-<h3 align="center">💻 Programming & Markup Languages</h3> <br>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=">
-  <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/C%23-512BD4.svg?style=for-the-badge&logo=C%23&logoColor=white" alt="C#">
-  <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" alt="HTML5">
-
-</div>
-
-<div align="center">
-<h3 align="center">🌐 Database</h3> <br>
-  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/MariaDB-003545.svg?style=for-the-badge&logo=MariaDB&logoColor=white" alt="MariaDB">
-  <img src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white" alt="MongoDB">
-</div>
-
-<div align="center">
-<h3 align="center">📚 Frameworks</h3> <br>
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=for-the-badge&logo=Spring-Boot&logoColor=white" alt="Spring Boot">
-</div>
-
-<div align="center">
-<h3 align="center">⚙️ Other Software</h3> <br>
-  <img src="https://img.shields.io/badge/Unity-FFFFFF.svg?style=for-the-badge&logo=Unity&logoColor=black" alt="Unity">
-</div>
-
-
-## 💹GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jodrix15&show_icons=true&theme=algolia" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jodrix15&layout=compact&theme=algolia" alt="Top Languages">
+  Desarrollador backend en el sector de seguros · Estudiante de Ingeniería Informática · Barcelona
 </p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/jordi-hornos/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+</p>
 
+<div align="center">
+  <img src="./4.png" alt="Banner">
+</div>
 
+## 📜 Sobre mí
 
+- 💼 Trabajo como **desarrollador** en el sector de seguros desde hace año y medio.
+- 🎓 Estudio **Ingeniería Informática**.
+- 🎯 Me estoy especializando en **backend con Java y Spring Boot**, con Angular en el frontend.
+- 🌱 Ahora mismo aprendo diseño de sistemas, testing con Testcontainers, Docker y CI/CD.
+- 🇬🇧 Preparando el **First Certificate (B2)** de inglés.
 
+## 🛠️ Stack
 
-<!--
-**Jodrix15/Jodrix15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+**Backend**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot">
+<img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" alt="Spring Security">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+
+**Frontend y móvil**
+
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
+
+**Bases de datos**
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+<img src="https://img.shields.io/badge/Flyway-CC0200?style=for-the-badge&logo=flyway&logoColor=white" alt="Flyway">
+
+**Testing y herramientas**
+
+<img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit">
+<img src="https://img.shields.io/badge/Mockito-78A641?style=for-the-badge" alt="Mockito">
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+
+</div>
+
+## 🚀 Proyectos destacados
+
+| Proyecto | Qué es | Tecnologías |
+|---|---|---|
+| [YouFinance](https://github.com/Jodrix15/youfinance-back) | App de finanzas personales: cuentas, inversiones, deudas y patrimonio. [Backend](https://github.com/Jodrix15/youfinance-back) · [Frontend](https://github.com/Jodrix15/youfinance-front) | Spring Boot, JWT, MySQL, React |
+| [YouFitness](https://github.com/Jodrix15/youfitness-front) | App móvil de salud con gamificación: peso, comida, entreno y hábitos | React Native, Expo, TypeScript |
+| [RoomTomic](https://github.com/Jodrix15/roomtomic) | Reservas de escape rooms, en equipo | Spring Boot, Flutter, Angular |
+| [goal-tree](https://github.com/Jodrix15/goal-tree) | Mis metas hasta 2030 como un árbol de habilidades de videojuego | HTML, JavaScript, GitHub Pages |
+| [CRM](https://github.com/Jodrix15/crm-customer-relationship-management) | Gestión de clientes para equipos comerciales, en equipo | Java, Swing, MySQL |
+
+## 📊 GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jodrix15&show_icons=true&theme=algolia" alt="Estadísticas de GitHub">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jodrix15&layout=compact&theme=algolia" alt="Lenguajes más usados">
+</p>
