@@ -4,15 +4,13 @@
   Desarrollador backend en el sector de seguros · Estudiante de Ingeniería Informática · Barcelona
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/jordi-hornos/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-</p>
-
 <div align="center">
   <img src="./4.png" alt="Banner">
 </div>
 
-## 📜 Sobre mí
+## 📜 Sobre mí <p align="center">
+  <a href="https://www.linkedin.com/in/jordi-hornos/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+</p>
 
 - 💼 Trabajo como **desarrollador** en el sector de seguros desde hace año y medio.
 - 🎓 Estudio **Ingeniería Informática**.
