@@ -61,7 +61,6 @@
 | [YouFinance](https://github.com/Jodrix15/youfinance-back) | App de finanzas personales: cuentas, inversiones, deudas y patrimonio. [Backend](https://github.com/Jodrix15/youfinance-back) · [Frontend](https://github.com/Jodrix15/youfinance-front) | Spring Boot, JWT, MySQL, React |
 | [YouFitness](https://github.com/Jodrix15/youfitness-front) | App móvil de salud con gamificación: peso, comida, entreno y hábitos | React Native, Expo, TypeScript |
 | [RoomTomic](https://github.com/Jodrix15/roomtomic) | Reservas de escape rooms, en equipo | Spring Boot, Flutter, Angular |
-| [goal-tree](https://github.com/Jodrix15/goal-tree) | Mis metas hasta 2030 como un árbol de habilidades de videojuego | HTML, JavaScript, GitHub Pages |
 | [CRM](https://github.com/Jodrix15/crm-customer-relationship-management) | Gestión de clientes para equipos comerciales, en equipo | Java, Swing, MySQL |
 
 ## 📊 GitHub
